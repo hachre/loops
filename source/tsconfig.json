@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"noImplicitAny": true,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		"out": "source/loops.js",
+		"sourceMap": true
+	},
+	"files": [
+		"loops.ts"
+	]
+}
